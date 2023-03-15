@@ -3,12 +3,12 @@ import statistics
 import gzip
 
 duljina = 0
-referenca = "references/Pseudomonas_aeruginosa_complete_genome.fasta"
+referenca = input("Full path name of reference .fasta file: ")
 
 for record in SeqIO.parse(referenca, "fasta"):
     duljina = len(record.seq)
 
-read = "zymo_binned_pseudomonas_aeruginosa.fastq.gz"
+read = input("Full path name of read .fastq.gz file: ")
 
 length = []
 with gzip.open(read, "rt") as f:
@@ -23,7 +23,7 @@ prosjek = zbroj / len(length)
 medijan = statistics.median(length)
 stdev = statistics.stdev(length)
 
-izlazna_datoteka = "Pseudomonas_aeruginosa.txt"
+izlazna_datoteka = input("Name the output .txt file: ")
 g = open(izlazna_datoteka, "w")
 g.write("Length of the reference sequence is -> %d\n" % duljina)
 g.write("Length of the combined sequence of the reads is -> %d\n" % zbroj)
