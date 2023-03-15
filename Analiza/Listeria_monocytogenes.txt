@@ -1,0 +1,8 @@
+Length of the reference sequence is -> 2992342
+Length of the combined sequence of the reads is -> 3750477749
+Coverage is -> 1253.358657
+Maximum value of the length of the reads is -> 219919
+Minimum value of the length of the reads is -> 429
+Average value of the length of the reads is -> 6343.721191
+Median value of the length of the reads is -> 4446
+Standard deviation value of the length of the reads is -> 7890.787394
