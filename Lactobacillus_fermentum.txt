@@ -1,0 +1,3 @@
+Length of the reference sequence is -> 1905333
+Length of the combined sequence of the reads is -> 4390298427
+Coverage is -> 2304.215813
