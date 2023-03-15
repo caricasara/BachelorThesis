@@ -2,4 +2,4 @@
 Tracking my work
 
 1. ZADATAK
->  detaljno za svaki od file-ova s readovima napraviti analizu coverage-a i duljine
+-  za svaki read i referencu jedne vrste napraviti detaljnu analizu coverage-a, duljine reference te ukupnu duljinu, prosječnu vrijednost, medijan, maksimum, minimum i standardnu devijaciju duljine read-a
