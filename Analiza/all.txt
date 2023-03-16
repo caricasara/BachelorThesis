@@ -1,0 +1,100 @@
+Bacillus_subtilis.txt
+Length of the reference sequence is -> 4045677
+Length of the combined sequence of the reads is -> 3872717369
+Coverage is -> 957.248285
+Maximum value of the length of the reads is -> 219696
+Minimum value of the length of the reads is -> 436
+Average value of the length of the reads is -> 6482.859042
+Median value of the length of the reads is -> 4489
+Standard deviation value of the length of the reads is -> 8053.377788
+
+Cryptococcus_neoformans.txt
+Length of the reference sequence is -> 221832
+Length of the combined sequence of the reads is -> 1397823563
+Coverage is -> 6301.271065
+Maximum value of the length of the reads is -> 110897
+Minimum value of the length of the reads is -> 365
+Average value of the length of the reads is -> 4825.938943
+Median value of the length of the reads is -> 4374
+Standard deviation value of the length of the reads is -> 2966.885849
+
+Enterococcus_faecalis.txt
+Length of the reference sequence is -> 2845392
+Length of the combined sequence of the reads is -> 3204325855
+Coverage is -> 1126.145661
+Maximum value of the length of the reads is -> 185023
+Minimum value of the length of the reads is -> 472
+Average value of the length of the reads is -> 5983.745913
+Median value of the length of the reads is -> 3955
+Standard deviation value of the length of the reads is -> 7367.996328
+
+Escherichia_coli.txt
+Length of the reference sequence is -> 4765434
+Length of the combined sequence of the reads is -> 3068580998
+Coverage is -> 643.924771
+Maximum value of the length of the reads is -> 129402
+Minimum value of the length of the reads is -> 439
+Average value of the length of the reads is -> 11996.813698
+Median value of the length of the reads is -> 7165
+Standard deviation value of the length of the reads is -> 12448.228905
+
+Lactobacillus_fermentum.txt
+Length of the reference sequence is -> 1905333
+Length of the combined sequence of the reads is -> 4390298427
+Coverage is -> 2304.215813
+Maximum value of the length of the reads is -> 288530
+Minimum value of the length of the reads is -> 390
+Average value of the length of the reads is -> 2030.738587
+Median value of the length of the reads is -> 1213
+Standard deviation value of the length of the reads is -> 3109.382565
+
+Listeria_monocytogenes.txt
+Length of the reference sequence is -> 2992342
+Length of the combined sequence of the reads is -> 3750477749
+Coverage is -> 1253.358657
+Maximum value of the length of the reads is -> 219919
+Minimum value of the length of the reads is -> 429
+Average value of the length of the reads is -> 6343.721191
+Median value of the length of the reads is -> 4446
+Standard deviation value of the length of the reads is -> 7890.787394
+
+Pseudomonas_aeruginosa.txt
+Length of the reference sequence is -> 6792330
+Length of the combined sequence of the reads is -> 2467197485
+Coverage is -> 363.232865
+Maximum value of the length of the reads is -> 130105
+Minimum value of the length of the reads is -> 462
+Average value of the length of the reads is -> 12216.872914
+Median value of the length of the reads is -> 7410
+Standard deviation value of the length of the reads is -> 12427.921683
+
+Saccharomyces_cerevisiae.txt
+Length of the reference sequence is -> 1480242
+Length of the combined sequence of the reads is -> 615683100
+Coverage is -> 415.934084
+Maximum value of the length of the reads is -> 215466
+Minimum value of the length of the reads is -> 475
+Average value of the length of the reads is -> 6125.895229
+Median value of the length of the reads is -> 4491
+Standard deviation value of the length of the reads is -> 7486.815905
+
+Salmonella_enterica.txt
+Length of the reference sequence is -> 4759746
+Length of the combined sequence of the reads is -> 3088881983
+Coverage is -> 648.959416
+Maximum value of the length of the reads is -> 123557
+Minimum value of the length of the reads is -> 464
+Average value of the length of the reads is -> 9248.315787
+Median value of the length of the reads is -> 4151
+Standard deviation value of the length of the reads is -> 11643.435894
+
+Staphylococcus_aureus.txt
+Length of the reference sequence is -> 2718780
+Length of the combined sequence of the reads is -> 3656155489
+Coverage is -> 1344.777985
+Maximum value of the length of the reads is -> 274400
+Minimum value of the length of the reads is -> 432
+Average value of the length of the reads is -> 6565.651911
+Median value of the length of the reads is -> 4260
+Standard deviation value of the length of the reads is -> 8742.984926
+
