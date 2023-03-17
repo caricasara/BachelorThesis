@@ -9,9 +9,9 @@ Median value of the length of the reads is -> 4489
 Standard deviation value of the length of the reads is -> 8053.377788
 
 Cryptococcus_neoformans.txt
-Length of the reference sequence is -> 221832
+Length of the reference sequence is -> 29176277
 Length of the combined sequence of the reads is -> 1397823563
-Coverage is -> 6301.271065
+Coverage is -> 47.909593
 Maximum value of the length of the reads is -> 110897
 Minimum value of the length of the reads is -> 365
 Average value of the length of the reads is -> 4825.938943
@@ -69,9 +69,9 @@ Median value of the length of the reads is -> 7410
 Standard deviation value of the length of the reads is -> 12427.921683
 
 Saccharomyces_cerevisiae.txt
-Length of the reference sequence is -> 1480242
+Length of the reference sequence is -> 12843354
 Length of the combined sequence of the reads is -> 615683100
-Coverage is -> 415.934084
+Coverage is -> 47.937875
 Maximum value of the length of the reads is -> 215466
 Minimum value of the length of the reads is -> 475
 Average value of the length of the reads is -> 6125.895229
