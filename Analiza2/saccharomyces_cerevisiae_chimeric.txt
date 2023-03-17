@@ -1,0 +1,6 @@
+Length in total is -> 42048759
+Maximum value of the length is -> 215466
+Minimum value of the length is -> 1097
+Average value of the length is -> 18163.610799
+Median value of the length is -> 10010
+Standard deviation value is -> 19008.433174

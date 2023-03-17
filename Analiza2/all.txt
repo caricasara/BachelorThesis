@@ -1,0 +1,80 @@
+bacillus_subtilis_chimeric.txt
+Length in total is -> 44002170
+Maximum value of the length is -> 219696
+Minimum value of the length is -> 1239
+Average value of the length is -> 21318.880814
+Median value of the length is -> 11595
+Standard deviation value is -> 25492.551564
+
+cryptococcus_neoformans_chimeric.txt
+Length in total is -> 367468960
+Maximum value of the length is -> 110897
+Minimum value of the length is -> 885
+Average value of the length is -> 6433.730653
+Median value of the length is -> 5934
+Standard deviation value is -> 3623.664195
+
+enterococcus_faecalis_chimeric.txt
+Length in total is -> 48267597
+Maximum value of the length is -> 185023
+Minimum value of the length is -> 1230
+Average value of the length is -> 18795.793224
+Median value of the length is -> 11115
+Standard deviation value is -> 20286.678576
+
+escherichia_coli_chimeric.txt
+Length in total is -> 31411366
+Maximum value of the length is -> 129402
+Minimum value of the length is -> 1268
+Average value of the length is -> 29633.364151
+Median value of the length is -> 24050
+Standard deviation value is -> 21905.491621
+
+lactobacillus_fermentum_chimeric.txt
+Length in total is -> 137098372
+Maximum value of the length is -> 230752
+Minimum value of the length is -> 1064
+Average value of the length is -> 5866.174832
+Median value of the length is -> 3227
+Standard deviation value is -> 8824.224338
+
+listeria_monocytogenes_chimeric.txt
+Length in total is -> 43163002
+Maximum value of the length is -> 219919
+Minimum value of the length is -> 1325
+Average value of the length is -> 16834.244150
+Median value of the length is -> 9457
+Standard deviation value is -> 20174.767365
+
+pseudomonas_aeruginosa_chimeric.txt
+Length in total is -> 30568549
+Maximum value of the length is -> 130105
+Minimum value of the length is -> 1321
+Average value of the length is -> 28199.768450
+Median value of the length is -> 23082
+Standard deviation value is -> 20729.402041
+
+saccharomyces_cerevisiae_chimeric.txt
+Length in total is -> 42048759
+Maximum value of the length is -> 215466
+Minimum value of the length is -> 1097
+Average value of the length is -> 18163.610799
+Median value of the length is -> 10010
+Standard deviation value is -> 19008.433174
+
+salmonella_enterica_chimeric.txt
+Length in total is -> 55905425
+Maximum value of the length is -> 123557
+Minimum value of the length is -> 1281
+Average value of the length is -> 26672.435592
+Median value of the length is -> 23390
+Standard deviation value is -> 19257.293166
+
+staphylococcus_aureus_chimeric.txt
+Length in total is -> 49564853
+Maximum value of the length is -> 274400
+Minimum value of the length is -> 1184
+Average value of the length is -> 17403.389396
+Median value of the length is -> 8217
+Standard deviation value is -> 23929.372364
+
