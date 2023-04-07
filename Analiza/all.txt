@@ -4,9 +4,9 @@ Length of the combined sequence of the reads is -> 3872717369
 Coverage is -> 957.248285
 Average value of the length of the reads is -> 6482.859042348396
 Minimum value of the length of the reads is -> 436
-First quartile value of the length of the reads is -> 2570
-Median value of the length of the reads is -> 4489
-Third quartile value of the length of the reads is -> 7188
+First quartile value of the length of the reads is -> 2570.0
+Median value of the length of the reads is -> 4489.0
+Third quartile value of the length of the reads is -> 7188.0
 Maximum value of the length of the reads is -> 219696
 Total number of the reads is -> 597378
 Standard deviation value of the length of the reads is -> 8053.371046938421
