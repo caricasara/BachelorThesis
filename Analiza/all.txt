@@ -2,99 +2,128 @@ Bacillus_subtilis.txt
 Length of the reference sequence is -> 4045677
 Length of the combined sequence of the reads is -> 3872717369
 Coverage is -> 957.248285
-Maximum value of the length of the reads is -> 219696
+Average value of the length of the reads is -> 6482.859042348396
 Minimum value of the length of the reads is -> 436
-Average value of the length of the reads is -> 6482.859042
+First quartile value of the length of the reads is -> 2570
 Median value of the length of the reads is -> 4489
-Standard deviation value of the length of the reads is -> 8053.377788
+Third quartile value of the length of the reads is -> 7188
+Maximum value of the length of the reads is -> 219696
+Total number of the reads is -> 597378
+Standard deviation value of the length of the reads is -> 8053.371046938421
 
 Cryptococcus_neoformans.txt
 Length of the reference sequence is -> 29176277
 Length of the combined sequence of the reads is -> 1397823563
 Coverage is -> 47.909593
-Maximum value of the length of the reads is -> 110897
+Average value of the length of the reads is -> 4825.938943130973
 Minimum value of the length of the reads is -> 365
-Average value of the length of the reads is -> 4825.938943
-Median value of the length of the reads is -> 4374
-Standard deviation value of the length of the reads is -> 2966.885849
+First quartile value of the length of the reads is -> 2702.0
+Median value of the length of the reads is -> 4374.0
+Third quartile value of the length of the reads is -> 6407.0
+Maximum value of the length of the reads is -> 110897
+Total number of the reads is -> 289648
+Standard deviation value of the length of the reads is -> 2966.8807279343196
 
 Enterococcus_faecalis.txt
 Length of the reference sequence is -> 2845392
 Length of the combined sequence of the reads is -> 3204325855
 Coverage is -> 1126.145661
-Maximum value of the length of the reads is -> 185023
+Average value of the length of the reads is -> 5983.7459127365755
 Minimum value of the length of the reads is -> 472
-Average value of the length of the reads is -> 5983.745913
-Median value of the length of the reads is -> 3955
-Standard deviation value of the length of the reads is -> 7367.996328
+First quartile value of the length of the reads is -> 2060.0
+Median value of the length of the reads is -> 3955.0
+Third quartile value of the length of the reads is -> 6800.0
+Maximum value of the length of the reads is -> 185023
+Total number of the reads is -> 535505
+Standard deviation value of the length of the reads is -> 7367.989448325316
 
 Escherichia_coli.txt
 Length of the reference sequence is -> 4765434
 Length of the combined sequence of the reads is -> 3068580998
 Coverage is -> 643.924771
-Maximum value of the length of the reads is -> 129402
+Average value of the length of the reads is -> 11996.813697548312
 Minimum value of the length of the reads is -> 439
-Average value of the length of the reads is -> 11996.813698
-Median value of the length of the reads is -> 7165
-Standard deviation value of the length of the reads is -> 12448.228905
+First quartile value of the length of the reads is -> 3128.0
+Median value of the length of the reads is -> 7165.0
+Third quartile value of the length of the reads is -> 16857.0
+Maximum value of the length of the reads is -> 129402
+Total number of the reads is -> 255783
+Standard deviation value of the length of the reads is -> 12448.20457123524
 
 Lactobacillus_fermentum.txt
 Length of the reference sequence is -> 1905333
 Length of the combined sequence of the reads is -> 4390298427
 Coverage is -> 2304.215813
-Maximum value of the length of the reads is -> 288530
+Average value of the length of the reads is -> 2030.738586776026
 Minimum value of the length of the reads is -> 390
-Average value of the length of the reads is -> 2030.738587
-Median value of the length of the reads is -> 1213
-Standard deviation value of the length of the reads is -> 3109.382565
+First quartile value of the length of the reads is -> 912.0
+Median value of the length of the reads is -> 1213.0
+Third quartile value of the length of the reads is -> 1945.0
+Maximum value of the length of the reads is -> 288530
+Total number of the reads is -> 2161922
+Standard deviation value of the length of the reads is -> 3109.3818457634356
 
 Listeria_monocytogenes.txt
 Length of the reference sequence is -> 2992342
 Length of the combined sequence of the reads is -> 3750477749
 Coverage is -> 1253.358657
-Maximum value of the length of the reads is -> 219919
+Average value of the length of the reads is -> 6343.721190911536
 Minimum value of the length of the reads is -> 429
-Average value of the length of the reads is -> 6343.721191
-Median value of the length of the reads is -> 4446
-Standard deviation value of the length of the reads is -> 7890.787394
+First quartile value of the length of the reads is -> 2604.0
+Median value of the length of the reads is -> 4446.0
+Third quartile value of the length of the reads is -> 6927.0
+Maximum value of the length of the reads is -> 219919
+Total number of the reads is -> 591211
+Standard deviation value of the length of the reads is -> 7890.7807203360135
 
 Pseudomonas_aeruginosa.txt
 Length of the reference sequence is -> 6792330
 Length of the combined sequence of the reads is -> 2467197485
 Coverage is -> 363.232865
-Maximum value of the length of the reads is -> 130105
+Average value of the length of the reads is -> 12216.872914087646
 Minimum value of the length of the reads is -> 462
-Average value of the length of the reads is -> 12216.872914
-Median value of the length of the reads is -> 7410
-Standard deviation value of the length of the reads is -> 12427.921683
+First quartile value of the length of the reads is -> 3218.0
+Median value of the length of the reads is -> 7410.0
+Third quartile value of the length of the reads is -> 17312.0
+Maximum value of the length of the reads is -> 130105
+Total number of the reads is -> 201950
+Standard deviation value of the length of the reads is -> 12427.89091286018
 
 Saccharomyces_cerevisiae.txt
 Length of the reference sequence is -> 12843354
 Length of the combined sequence of the reads is -> 615683100
 Coverage is -> 47.937875
-Maximum value of the length of the reads is -> 215466
+Average value of the length of the reads is -> 6125.89522909308
 Minimum value of the length of the reads is -> 475
-Average value of the length of the reads is -> 6125.895229
-Median value of the length of the reads is -> 4491
-Standard deviation value of the length of the reads is -> 7486.815905
+First quartile value of the length of the reads is -> 2756.0
+Median value of the length of the reads is -> 4491.0
+Third quartile value of the length of the reads is -> 6727.0
+Maximum value of the length of the reads is -> 215466
+Total number of the reads is -> 100505
+Standard deviation value of the length of the reads is -> 7486.778658528947
 
 Salmonella_enterica.txt
 Length of the reference sequence is -> 4759746
 Length of the combined sequence of the reads is -> 3088881983
 Coverage is -> 648.959416
-Maximum value of the length of the reads is -> 123557
+Average value of the length of the reads is -> 9248.315787109948
 Minimum value of the length of the reads is -> 464
-Average value of the length of the reads is -> 9248.315787
-Median value of the length of the reads is -> 4151
-Standard deviation value of the length of the reads is -> 11643.435894
+First quartile value of the length of the reads is -> 1504.0
+Median value of the length of the reads is -> 4151.0
+Third quartile value of the length of the reads is -> 12299.0
+Maximum value of the length of the reads is -> 123557
+Total number of the reads is -> 333994
+Standard deviation value of the length of the reads is -> 11643.4184632732
 
 Staphylococcus_aureus.txt
 Length of the reference sequence is -> 2718780
 Length of the combined sequence of the reads is -> 3656155489
 Coverage is -> 1344.777985
-Maximum value of the length of the reads is -> 274400
+Average value of the length of the reads is -> 6565.651911338737
 Minimum value of the length of the reads is -> 432
-Average value of the length of the reads is -> 6565.651911
-Median value of the length of the reads is -> 4260
-Standard deviation value of the length of the reads is -> 8742.984926
-
+First quartile value of the length of the reads is -> 2196.0
+Median value of the length of the reads is -> 4260.0
+Third quartile value of the length of the reads is -> 7076.0
+Maximum value of the length of the reads is -> 274400
+Total number of the reads is -> 556861
+Standard deviation value of the length of the reads is -> 8742.977075364657
