@@ -1,79 +1,109 @@
-bacillus_subtilis_unchimeric.txt
-Length in total is -> 3836343303
+bacillus_subtilis_nonchimeric.txt
+Sum in total is -> 3828715199
+Quantity is -> 595314
+Average value of the length is -> 6431.421399463141
+Minimum value of the length is -> 436
+First quartile value of the length is -> 2565.0
+Median value of the length is -> 4478.0
+Third quartile value of the length is -> 7163.0
 Maximum value of the length is -> 154354
-Minimum value of the length is -> 44
-Average value of the length is -> 6420.432592
-Median value of the length is -> 4468
-Standard deviation value is -> 7871.749226
+Standard deviation value is -> 7878.059026421212
 
-cryptococcus_neoformans_unchimeric.txt
-Length in total is -> 1083974985
+cryptococcus_neoformans_nonchimeric.txt
+Sum in total is -> 1030354603
+Quantity is -> 232532
+Average value of the length is -> 4431.022839867201
+Minimum value of the length is -> 365
+First quartile value of the length is -> 2416.0
+Median value of the length is -> 3989.0
+Third quartile value of the length is -> 5941.0
 Maximum value of the length is -> 67214
-Minimum value of the length is -> 41
-Average value of the length is -> 2640.769117
-Median value of the length is -> 1662
-Standard deviation value is -> 2862.878865
+Standard deviation value is -> 2635.967996600124
 
-enterococcus_faecalis_unchimeric.txt
-Length in total is -> 3163250017
+enterococcus_faecalis_nonchimeric.txt
+Sum in total is -> 3156058258
+Quantity is -> 532937
+Average value of the length is -> 5922.01002745165
+Minimum value of the length is -> 472
+First quartile value of the length is -> 2053.0
+Median value of the length is -> 3939.0
+Third quartile value of the length is -> 6760.0
 Maximum value of the length is -> 148963
-Minimum value of the length is -> 42
-Average value of the length is -> 5907.758137
-Median value of the length is -> 3927
-Standard deviation value is -> 7188.059081
+Standard deviation value is -> 7195.260261818236
 
-escherichia_coli_unchimeric.txt
-Length in total is -> 3049613406
+escherichia_coli_nonchimeric.txt
+Sum in total is -> 3037169632
+Quantity is -> 254723
+Average value of the length is -> 11923.421253675562
+Minimum value of the length is -> 439
+First quartile value of the length is -> 3117.0
+Median value of the length is -> 7127.0
+Third quartile value of the length is -> 16752.0
 Maximum value of the length is -> 125209
-Minimum value of the length is -> 48
-Average value of the length is -> 11844.216788
-Median value of the length is -> 7057
-Standard deviation value is -> 12312.197189
+Standard deviation value is -> 12341.308746977533
 
-lactobacillus_fermentum_unchimeric.txt
-Length in total is -> 4261281414
+lactobacillus_fermentum_nonchimeric.txt
+Sum in total is -> 4253200055
+Quantity is -> 2138551
+Average value of the length is -> 1988.823299046878
+Minimum value of the length is -> 390
+First quartile value of the length is -> 909.0
+Median value of the length is -> 1204.0
+Third quartile value of the length is -> 1908.0
 Maximum value of the length is -> 288530
-Minimum value of the length is -> 40
-Average value of the length is -> 1982.302070
-Median value of the length is -> 1201
-Standard deviation value is -> 2956.756040
+Standard deviation value is -> 2959.8086471827464
 
-listeria_monocytogenes_unchimeric.txt
-Length in total is -> 3716949399
+listeria_monocytogenes_nonchimeric.txt
+Sum in total is -> 3707314747
+Quantity is -> 588647
+Average value of the length is -> 6298.027080746186
+Minimum value of the length is -> 429
+First quartile value of the length is -> 2597.0
+Median value of the length is -> 4433.0
+Third quartile value of the length is -> 6900.0
 Maximum value of the length is -> 148443
-Minimum value of the length is -> 44
-Average value of the length is -> 6284.788135
-Median value of the length is -> 4424
-Standard deviation value is -> 7756.735389
+Standard deviation value is -> 7764.147974488827
 
-pseudomonas_aeruginosa_unchimeric.txt
-Length in total is -> 2439781149
+pseudomonas_aeruginosa_nonchimeric.txt
+Sum in total is -> 2436628936
+Quantity is -> 200866
+Average value of the length is -> 12130.619099300031
+Minimum value of the length is -> 462
+First quartile value of the length is -> 3204.0
+Median value of the length is -> 7361.0
+Third quartile value of the length is -> 17180.75
 Maximum value of the length is -> 108707
-Minimum value of the length is -> 46
-Average value of the length is -> 12089.975070
-Median value of the length is -> 7322
-Standard deviation value is -> 12301.045911
+Standard deviation value is -> 12311.910203206002
 
-saccharomyces_cerevisiae_unchimeric.txt
-Length in total is -> 575406991
+saccharomyces_cerevisiae_nonchimeric.txt
+Sum in total is -> 573634341
+Quantity is -> 98190
+Average value of the length is -> 5842.0851512373965
+Minimum value of the length is -> 475
+First quartile value of the length is -> 2718.0
+Median value of the length is -> 4419.5
+Third quartile value of the length is -> 6585.0
 Maximum value of the length is -> 131317
-Minimum value of the length is -> 52
-Average value of the length is -> 5785.194255
-Median value of the length is -> 4380
-Standard deviation value is -> 6722.754679
+Standard deviation value is -> 6735.081396830137
 
-salmonella_enterica_unchimeric.txt
-Length in total is -> 3042830456
+salmonella_enterica_nonchimeric.txt
+Sum in total is -> 3032976558
+Quantity is -> 331898
+Average value of the length is -> 9138.279103821053
+Minimum value of the length is -> 464
+First quartile value of the length is -> 1496.0
+Median value of the length is -> 4107.0
+Third quartile value of the length is -> 12122.0
 Maximum value of the length is -> 103220
-Minimum value of the length is -> 40
-Average value of the length is -> 9091.489008
-Median value of the length is -> 4075
-Standard deviation value is -> 11467.810872
+Standard deviation value is -> 11495.873552376499
 
-staphylococcus_aureus_unchimeric.txt
-Length in total is -> 3629083421
+staphylococcus_aureus_nonchimeric.txt
+Sum in total is -> 3606590636
+Quantity is -> 554013
+Average value of the length is -> 6509.938640429015
+Minimum value of the length is -> 432
+First quartile value of the length is -> 2188.0
+Median value of the length is -> 4250.0
+Third quartile value of the length is -> 7050.0
 Maximum value of the length is -> 193034
-Minimum value of the length is -> 41
-Average value of the length is -> 6424.157074
-Median value of the length is -> 4185
-Standard deviation value is -> 8510.662449
+Standard deviation value is -> 8560.554720640606
