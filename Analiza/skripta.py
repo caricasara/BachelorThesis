@@ -1,4 +1,5 @@
 from Bio import SeqIO
+import numpy as np
 import statistics
 import gzip
 
@@ -16,21 +17,26 @@ with gzip.open(read, "rt") as f:
         length.append(len(record.seq))
 f.close()
 
-zbroj = sum(length)
-max_vrijednost = max(length)
-min_vrijednost = min(length)
-prosjek = zbroj / len(length)
-medijan = statistics.median(length)
-stdev = statistics.stdev(length)
+duljina = len(length)
+summation = np.sum(length)
+minimum = np.min(length)
+maximum = np.max(length)
+mean = np.mean(length)
+median = np.median(length)
+std_dev = np.std(length)
+quartiles = np.percentile(length, [25, 75])
+q1 = quartiles[0]
+q3 = quartiles[1]
+
 
 izlazna_datoteka = input("Name the output .txt file: ")
 g = open(izlazna_datoteka, "w")
 g.write("Length of the reference sequence is -> %d\n" % duljina)
-g.write("Length of the combined sequence of the reads is -> %d\n" % zbroj)
-g.write("Coverage is -> %f\n" % (float(zbroj) / duljina))
-g.write("Maximum value of the length of the reads is -> %d\n" % max_vrijednost)
-g.write("Minimum value of the length of the reads is -> %d\n" % min_vrijednost)
-g.write("Average value of the length of the reads is -> %f\n" % float(prosjek))
-g.write("Median value of the length of the reads is -> %d\n" % medijan)
-g.write("Standard deviation value of the length of the reads is -> %f\n" % float(stdev))
+g.write("Length of the combined sequence of the reads is -> %d\n" % summation)
+g.write("Coverage is -> %f\n" % (float(summation) / duljina))
+g.write("Maximum value of the length of the reads is -> %d\n" % maximum)
+g.write("Minimum value of the length of the reads is -> %d\n" % minimum)
+g.write("Average value of the length of the reads is -> %f\n" % float(mean))
+g.write("Median value of the length of the reads is -> %d\n" % median)
+g.write("Standard deviation value of the length of the reads is -> %f\n" % float(std_dev))
 g.close()
