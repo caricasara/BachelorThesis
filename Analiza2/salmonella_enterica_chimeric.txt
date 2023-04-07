@@ -1,6 +1,9 @@
-Length in total is -> 55905425
-Maximum value of the length is -> 123557
+Sum in total is -> 55905425
+Quantity is -> 2096
+Average value of the length is -> 26672.435591603054
 Minimum value of the length is -> 1281
-Average value of the length is -> 26672.435592
-Median value of the length is -> 23390
-Standard deviation value is -> 19257.293166
+First quartile value of the length is -> 11424.5
+Median value of the length is -> 23390.5
+Third quartile value of the length is -> 36774.75
+Maximum value of the length is -> 123557
+Standard deviation value is -> 19252.698798144454
