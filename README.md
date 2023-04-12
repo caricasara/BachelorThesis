@@ -16,4 +16,4 @@ Tracking my work
 
 4. ZADATAK
 - prikazati rezultate i odnose grafički
-- također, ispisati koliko je kimernih sekvenci duljine manje od prosječne vrijednosti i vrijednosti prvog kvartila zajedničkih podataka za svaki organizam
+- ispisati koliko je kimernih sekvenci duljine manje od prosječne vrijednosti i vrijednosti prvog kvartila zajedničkih podataka za svaki organizam
